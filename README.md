@@ -17,11 +17,21 @@ This project implements a classic Tic Tac Toe game where two players can compete
 
 No installation is required! This is a simple HTML, CSS, and JavaScript project that can be run directly in your web browser.
 
-# Usage
+## Usage
 
-1. Clone or download the repository.
-2. Open the index.html file in your web browser.
-3. Start playing! Click on the squares to place your X or O.
+1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/SATYAM-PRATIBHAN/Tic-Tac-Toe.git
+```
+2. Open the project directory:
+
+```bash
+cd Tic-Tac-Toe
+```
+3. Open index.html in your web browser.
+   
+4. Now you will be able to see the live time updating every second.
 
 # Contributing
 
