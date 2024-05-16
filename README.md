@@ -9,6 +9,10 @@ This project implements a classic Tic Tac Toe game where two players can compete
 3. Tracks the current player's turn.
 4. Detects wins, draws, and game over conditions.
 
+# Demo 
+
+![image](https://github.com/SATYAM-PRATIBHAN/Tic-Tac-Toe/assets/142714564/297b966d-c752-474c-8a66-372be8fd0554)
+
 # Installation
 
 No installation is required! This is a simple HTML, CSS, and JavaScript project that can be run directly in your web browser.
